@@ -1,0 +1,8 @@
+firstFormID:"-1",
+i18nDataSource:"db:/svy_framework/i18n_messages",
+modulesNames:"MA_Shared,PSL_Main,PSL_Shared,PSL_Presenze,PSL_Pratiche,PSL_CalcoloCosti,PSL_Anagrafiche,PSL_Lookup,PSL_Report,MA_Operations,PSL_Admin,PSL_Login,PV",
+onCloseMethodID:"7A5BA424-0891-4A07-A72C-8D7E0C390C1E",
+onOpenMethodID:"F4BA5D64-A543-46AF-B03E-F9288068FACA",
+titleText:"PresenzaSempliceLite",
+typeid:43,
+uuid:"420671EC-1A39-4BB1-AB2C-7CB92E4075C4"

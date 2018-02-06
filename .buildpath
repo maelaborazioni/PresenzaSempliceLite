@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry excluding=".stp/|medias/" kind="src" path=""/>
+	<buildpathentry exported="true" kind="prj" path="/MA_Operations"/>
+	<buildpathentry exported="true" kind="prj" path="/MA_Shared"/>
+	<buildpathentry exported="true" kind="prj" path="/PSL_Admin"/>
+	<buildpathentry exported="true" kind="prj" path="/PSL_Anagrafiche"/>
+	<buildpathentry exported="true" kind="prj" path="/PSL_CalcoloCosti"/>
+	<buildpathentry exported="true" kind="prj" path="/PSL_Login"/>
+	<buildpathentry exported="true" kind="prj" path="/PSL_Lookup"/>
+	<buildpathentry exported="true" kind="prj" path="/PSL_Main"/>
+	<buildpathentry exported="true" kind="prj" path="/PSL_Pratiche"/>
+	<buildpathentry exported="true" kind="prj" path="/PSL_Presenze"/>
+	<buildpathentry exported="true" kind="prj" path="/PSL_Report"/>
+	<buildpathentry exported="true" kind="prj" path="/PSL_Shared"/>
+	<buildpathentry exported="true" kind="prj" path="/PV"/>
+</buildpath>
